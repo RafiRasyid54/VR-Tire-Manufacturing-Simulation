@@ -1,0 +1,10 @@
+* text=auto
+*.cs diff=csharp
+*.unity binary
+*.asset binary
+*.prefab binary
+*.mat binary
+*.fbx binary
+*.obj binary
+*.jpg binary
+*.png binary
